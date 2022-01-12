@@ -31,4 +31,4 @@ Automatically turn on the USJ Mario Star from 21:00 to 24:00 everyday
 Ye Qiwei
 
 # Thanks
-Feel free to use the content
+Feel free to use the contents
