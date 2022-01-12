@@ -27,4 +27,7 @@ Automatically turn on the USJ Mario Star from 21:00 to 24:00 everyday
 [cron](https://www.raspberrypirulo.net/entry/cron)<br>
 [pi zero pin assign](https://www.ekit-tech.com/?p=1069)<br>
 
+# Author
+Ye Qiwei
+
 # Thanks
