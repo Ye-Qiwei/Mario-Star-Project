@@ -32,4 +32,4 @@ Ye Qiwei
 E-mail: ye_qiwei@outlook.com
 
 # Thanks
-Feel free to use the content
+Feel free to use the contents
