@@ -29,6 +29,7 @@ Automatically turn on the USJ Mario Star from 21:00 to 24:00 everyday
 
 # Author
 Ye Qiwei
+E-mail: ye_qiwei@outlook.com
 
 # Thanks
 Feel free to use the content
