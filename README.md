@@ -5,9 +5,9 @@ Automatically turn on the USJ Mario Star from 21:00 to 24:00 everyday
 ## Hardware
 * Raspberry Pi zero: provide remote control(VNC viewer) to the light up program
 * Relay: 941h-2c-5d
-* Battery box: for four 1.5V batteries
+* Battery box: for four 1.5V batteries for power supply of LED
 * Universal board
-* Micro USB  
+* Micro USB cable for power supply of Raspberry Pi
 * Some wires
 ## Software
 * Python
