@@ -7,6 +7,7 @@ Automatically turn on the USJ Mario Star from 21:00 to 24:00 everyday
 * Relay: 941h-2c-5d
 * Battery box: for four 1.5V batteries
 * Universal board
+* Micro USB  
 * Some wires
 ## Software
 * Python
